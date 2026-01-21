@@ -17,3 +17,7 @@ uv-cache/
 # OS
 .DS_Store
 Thumbs.db
+
+# Files
+**/glove/*
+*.zip
